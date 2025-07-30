@@ -1,6 +1,7 @@
 # FastAPI Backend with OpenRouter Integration
 
 A FastAPI application with OpenRouter AI/LLM integration using LangChain.
+<img width="921" height="664" alt="Screenshot 2025-07-30 at 9 34 48 AM" src="https://github.com/user-attachments/assets/13e873d6-0eca-48ae-b8e6-d7e22a136433" />
 
 ## Features
 
